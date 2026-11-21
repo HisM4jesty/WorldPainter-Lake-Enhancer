@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Atakan Ulusoy
+// Licensed under the MIT License.
+
 // script.name=Lake Enhancer
 // script.description=Adds natural islands, underwater relief and seagrass, softer shoreline and optional reed/lily layers
 // script.param.seed.type=integer
